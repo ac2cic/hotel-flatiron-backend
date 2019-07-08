@@ -38,7 +38,8 @@ end
         username: Faker::Internet.username,
         email: Faker::Internet.email,
         phone_number: Faker::PhoneNumber.cell_phone,
-        address: Faker::Address.street_address)
+        address: Faker::Address.street_address,
+        password: Faker::Internet.password)
 end
 
 20.times do
