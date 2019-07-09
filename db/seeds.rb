@@ -35,14 +35,11 @@ end
 #     User.create(
 #         first_name: Faker::Name.first_name,
 #         last_name: Faker::Name.last_name,
-#         username: Faker::Internet.username,
-#         email: Faker::Internet.email,
-#         phone_number: Faker::PhoneNumber.cell_phone,
 #         address: Faker::Address.street_address,
 #         password: Faker::Internet.password)
 # end
 
-user1 = User.create(first_name: "Jaehyun", last_name: "Park", username: "jae", email: "jae@flatiron.com", password: "123456", address: "dunwoody in GA")
+user1 = User.create(first_name: "Jaehyun", last_name: "Park", username: "jae", password: "123456")
 
 
 
