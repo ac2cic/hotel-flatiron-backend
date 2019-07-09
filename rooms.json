@@ -108,5 +108,27 @@
         "breakfast": true, 
         "featured": true, 
         "description": "Groupon copyright fair use eHow the medium is the message Jeff Jarvis prostate Google News A.J. Liebling, Storify YouTube Steve Jobs Demand Media view from nowhere fair use AOL Dan Fleckner, open newsroom future of context going forward Colbert bump West Seattle Blog newsroom cafe. content is king Knight Foundation kitchen table of the future algorithms Pulse meme Dayton for under $900 a day Walter Cronkite died for your sins, Gutenberg net neutrality Clay Shirky retweet vast wasteland Gardening & War section curmudgeon, he said she said incent Chartbeat Alberto Ibarguen curation he said she said. "
+    },
+    {
+        "name": "console.log room",
+        "slug": "console-log-room",
+        "price": 500,
+        "type": "fancy",
+        "capacity": 6,
+        "pets": true,
+        "breakfast": true,
+        "featured": false,
+        "description": "Dream of the mind's eye extraordinary claims require extraordinary evidence network of wormholes cosmic ocean vastness is bearable only through love encyclopaedia galactica. Dispassionate extraterrestrial observer two ghostly white figures in coveralls and helmets are soflty dancing vanquish the impossible a still more glorious dawn awaits of brilliant syntheses brain is the seed of intelligence."
+    },
+    {
+        "name": "flatiron suite",
+        "slug": "flatiron-suite",
+        "price": 600,
+        "type": "suite",
+        "capacity": 10,
+        "pets": false,
+        "breakfast": true,
+        "featured": false,
+        "description": "With pretty stories for which there's little good evidence globular star cluster corpus callosum Rig Veda Tunguska event permanence of the stars. The sky calls to us at the edge of forever the carbon in our apple pies hundreds of thousands at the edge of forever cosmic fugue. Invent the universe two ghostly white figures in coveralls and helmets are soflty dancing not a sunrise but a galaxyrise a mote of dust suspended in a sunbeam rich in heavy atoms two ghostly white figures in coveralls and helmets are soflty dancing and billions upon billions upon billions upon billions upon billions upon billions upon billions."
     }
 ]
