@@ -1,8 +1,9 @@
 class ReservationsController < ApplicationController
   before_action :set_reservation, only: [:show, :destroy, :update]
+  
   def index
     @reservations = Reservation.all
-    render json: @reservation
+    render json: @reservations
   end
 
   def show
