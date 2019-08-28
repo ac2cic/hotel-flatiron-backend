@@ -1,26 +1,14 @@
 # README
+Hotel Flatiron Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Provides backend information for [Hotel Flatiron Frontend](https://github.com/dekadekadeka/hotel-flatiron-frontend). Only takes care of reservation and user info, rooms are only in it for sake of completeness/for serializing reservation info as this was primarily imagined as a frontend-only app.
 
-Things you may want to cover:
+# Ruby version
+* 2.6.3
 
-* Ruby version
 
-* System dependencies
+# Database initialization
+* Run rails db:create to create/migrate all database info. Then run rails db:seed
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # hotel-flatiron-backend
 

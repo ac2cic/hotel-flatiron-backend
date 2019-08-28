@@ -39,10 +39,6 @@ end
 #         password: Faker::Internet.password)
 # end
 
-user1 = User.create(first_name: "Jaehyun", last_name: "Park", username: "jae", password: "123456")
-
-
-
 
 20.times do
     Reservation.create(
